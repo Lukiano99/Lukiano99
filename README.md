@@ -2,15 +2,15 @@
 <h3 align="center">A passionate software developer from Serbia, Nis</h3>
 
 
-- 🌱 I’m currently learning **React, Next.js**
+🌱 I’m currently learning **React, Next.js**
 
-- 💬 Ask me about **react, .NET, databases, etc.**
+💬 Ask me about **T3 Stack, NextJS, tRPC, Prisma, Tailwind etc.**
 
-- 📫 How to reach me **l.stojadinovic99@gmail.com**
+📫 How to reach me **l.stojadinovic99@gmail.com** & **luka@lunique.tech**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dcZzeYHBj8gO-Ak5XanNjKhvBYkkc-BO/view?usp=drive_link](https://drive.google.com/file/d/1dcZzeYHBj8gO-Ak5XanNjKhvBYkkc-BO/view?usp=drive_link)
+📄 Know about my experiences [https://drive.google.com/file/d/1dcZzeYHBj8gO-Ak5XanNjKhvBYkkc-BO/view?usp=drive_link](https://drive.google.com/file/d/1dcZzeYHBj8gO-Ak5XanNjKhvBYkkc-BO/view?usp=drive_link)
 
-- ⚡ Fun fact **Passionate guitar player who loves to code**
+⚡ Fun fact **Passionate guitar player who loves to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
