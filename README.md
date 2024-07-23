@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Luka Stojadinovic</h1>
-<h3 align="center">A passionate software developer from Serbia, Nis</h3>
+<h1 align="start">Hi 👋, I'm Luka Stojadinovic</h1>
+<h3 align="start">A passionate software developer from Serbia, Nis</h3>
 
 
-🌱 I’m currently learning **React, Next.js**
+🌱 I’m currently learning **Payload (CMS)**
 
 💬 Ask me about **T3 Stack, NextJS, tRPC, Prisma, Tailwind etc.**
 
