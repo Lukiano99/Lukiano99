@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Luka Stojadinovic</h1>
-<h3 align="start">A passionate software developer from Serbia, Nis</h3>
+<h3 align="start">A passionate WEB DEVELOPER from Serbia, Nis</h3>
 
 
 🌱 I’m currently learning **Payload (CMS)**
