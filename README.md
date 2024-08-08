@@ -8,7 +8,7 @@
 
 📫 How to reach me **l.stojadinovic99@gmail.com** & **luka@lunique.tech**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1dcZzeYHBj8gO-Ak5XanNjKhvBYkkc-BO/view?usp=drive_link](https://drive.google.com/file/d/1dcZzeYHBj8gO-Ak5XanNjKhvBYkkc-BO/view?usp=drive_link)
+📄 Know about my experiences [[https://drive.google.com/file/d/1dcZzeYHBj8gO-Ak5XanNjKhvBYkkc-BO/view?usp=drive_link](https://drive.google.com/file/d/1dcZzeYHBj8gO-Ak5XanNjKhvBYkkc-BO/view?usp=drive_link)](https://drive.google.com/drive/u/0/folders/1LhRbU7ROWE8K-KokYfPBEcgO-amQmTa5)
 
 ⚡ Fun fact **Passionate guitar player who loves to code**
 
