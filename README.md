@@ -22,7 +22,7 @@ I graduated from the Faculty of Electronic Engineering in Niš, specializing in 
 I actively document my projects and regularly push my code to GitHub. My focus is on **next-gen web technologies**, and I’m always exploring new frameworks and improving my current stack. My journey also involves continuous learning in **CMS systems** like **Payload**, to extend my expertise.
 
 ### 👥 Teamwork & Experience
-I've had the opportunity to work in a team of 20+ developers, including smaller groups of up to 5 people. I’ve collaborated closely with designers, PMs, and backend/frontend developers, which has helped me refine both my technical and communication skills. Full-stack development is my passion, and I enjoy building features end-to-end, from database design to frontend user experiences.
+I've had the opportunity to work at **Code3Profit** (https://www.code3profit.com)  in a team of 20+ developers, including smaller groups of up to 5 people. I collaborated closely with designers, PMs, and backend/frontend developers, which helped me refine both my technical and communication skills. Full-stack development is my passion, and I enjoy building features end-to-end, from database design to frontend user experiences.
 
 ### 🎸 Fun Facts
 - I'm not just a developer; I’m also a **guitarist**! Whether it’s code or chords, I love creating something meaningful.
