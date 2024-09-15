@@ -1,23 +1,34 @@
-<h1 align="start">Hi 👋, I'm Luka Stojadinovic</h1>
-<h3 align="start">A passionate WEB DEVELOPER from Serbia, Nis</h3>
+## Hi, I'm Luka Stojadinovic! 👋
 
+I'm a passionate **full-stack developer** with a deep focus on **Next.js**, building modern, scalable web applications. I love creating clean, efficient, and well-documented code. When I'm not coding, you'll probably find me jamming on my guitar or hitting the gym!
 
-🌱 I’m currently learning **Payload (CMS)**
+### 🛠️ Tech Stack
+- **Frontend**: Next.js (App Router), React, TypeScript, TailwindCSS, ShadCn, MagicUI
+- **Backend**: tRPC, PostgreSQL, Prisma, Supabase
+- **State Management**: React Query, Tanstack, Zustand
+- **Authentication**: NextAuth.js v5
+- **CMS**: Payload CMS
+- **Other**: JavaScript, SQL
 
-💬 Ask me about **T3 Stack, NextJS, tRPC, Prisma, Tailwind etc.**
+### 📌 Featured Projects
+- **[Next-Auth Service](https://github.com/Lukiano99/auth-service)**: My custom implementation of **NextAuth.js v5**, featuring email verification, OAuth, and Two-Factor Authentication (2FA). This project demonstrates my experience with authentication systems and secure user flows.
+  
+- **[ThermoViz](https://github.com/Lukiano99/ThermoViz)**: A data visualization tool built with **Next.js** for monitoring energy consumption in District Heating Systems (DHS). This project was created for my thesis and showcases advanced data processing and charting.
 
-📫 How to reach me **l.stojadinovic99@gmail.com** & **luka@lunique.tech**
+- **[LuniqueEvents](https://github.com/mladenovic-13/lunique-events)**: A collaborative project built with Nikola, focusing on event management. This app highlights my teamwork skills and experience working on full-stack projects in a team setting.
 
-📄 Know about my experiences [https://drive.google.com/file/d/1uqIEycxF_hKIMYBaGZ3fh_VWyA1TpVkZ/view?usp=drive_link]
+### 📚 What I'm Up To
+I actively document my projects and regularly push my code to GitHub. My focus is on **next-gen web technologies**, and I’m always exploring new frameworks and improving my current stack. My journey also involves continuous learning in **CMS systems** like **Payload**, to extend my expertise.
 
-⚡ Fun fact **Passionate guitar player who loves to code**
+### 👥 Teamwork & Experience
+I've had the opportunity to work in a team of 20+ developers, including smaller groups of up to 5 people. I’ve collaborated closely with designers, PMs, and backend/frontend developers, which has helped me refine both my technical and communication skills. Full-stack development is my passion, and I enjoy building features end-to-end, from database design to frontend user experiences.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luka-stojadinovic-08ab971b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luka-stojadinovic-08ab971b9" height="30" width="40" /></a>
-</p>
+### 🎸 Fun Facts
+- I'm not just a developer; I’m also a **guitarist**! Whether it’s code or chords, I love creating something meaningful.
+- Fitness is a big part of my life. I'm dedicated to improving both mentally and physically, and you can often find me at the gym or reading a good book.
+- **Running enthusiast**: I’ve completed a half marathon and enjoy challenging myself through running.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 💡 Let's Connect!
+- **LinkedIn**: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/luka-stojadinovic-08ab971b9/)
 
-
+Feel free to explore my projects and reach out if you want to collaborate or chat about web development, fitness, or music!
