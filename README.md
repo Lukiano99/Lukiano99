@@ -1,6 +1,7 @@
 ## Hi, I'm Luka Stojadinovic! 👋
 
 I'm a passionate **full-stack developer** with a deep focus on **Next.js**, building modern, scalable web applications. I love creating clean, efficient, and well-documented code. When I'm not coding, you'll probably find me jamming on my guitar or hitting the gym!
+I graduated from the Faculty of Electronic Engineering in Niš, specializing in Computer Science, and I'm currently pursuing my Master's degree.
 
 ### 🛠️ Tech Stack
 - **Frontend**: Next.js (App Router), React, TypeScript, TailwindCSS, ShadCn, MagicUI
