@@ -1,36 +1,76 @@
-## Hi, I'm Luka Stojadinovic! 👋
+# Hi, I'm Luka Stojadinović 👋
 
-I'm a passionate **full-stack developer** with a deep focus on **Next.js**, building modern, scalable web applications. I love creating clean, efficient, and well-documented code. When I'm not coding, you'll probably find me jamming on my guitar or hitting the gym!
-I graduated from the Faculty of Electronic Engineering in Niš, specializing in Computer Science, and I'm currently pursuing my Master's degree.
+I'm a **Software Engineer** with 4+ years of experience building production-grade applications across **frontend, full-stack, and data-focused systems**.  
+My background includes modern web development, ETL workflows, SQL databases, API integrations, and performance optimization in high-traffic environments.
 
-### 🛠️ Tech Stack
-- **Frontend**: Next.js (App Router), React, TypeScript, TailwindCSS, ShadCn, MagicUI
-- **Backend**: tRPC, PostgreSQL, Prisma, Supabase
-- **State Management**: React Query, Tanstack, Zustand
-- **Authentication**: NextAuth.js v5
-- **CMS**: Payload CMS
-- **Other**: JavaScript, SQL
+I currently work on large-scale TV and web applications, and I also build freelance full-stack products and internal tools.  
+I enjoy turning ideas into reliable, scalable, and cleanly engineered solutions.
 
-### 📌 Featured Projects
-- **[Next-Auth Service](https://github.com/Lukiano99/auth-service)**: My custom implementation of **NextAuth.js v5**, featuring email verification, OAuth, and Two-Factor Authentication (2FA). This project demonstrates my experience with authentication systems and secure user flows.
-  
-- **[ThermoViz](https://github.com/Lukiano99/ThermoViz)**: A data visualization tool built with **Next.js** for monitoring energy consumption in District Heating Systems (DHS). This project was created for my thesis and showcases advanced data processing and charting.
+## About Me
 
-- **[LuniqueEvents](https://github.com/mladenovic-13/lunique-events)**: A collaborative project built with Nikola, focusing on event management. This app highlights my teamwork skills and experience working on full-stack projects in a team setting.
+- 🎓 BSc in Computer Science, Faculty of Electronic Engineering, University of Niš
+- 💼 Experience across frontend, full-stack, and data engineering workflows
+- 🔧 Strong focus on performance, maintainability, and good architecture
+- 📍 Based in Belgrade, Serbia
+- 🎸 Outside of work, I play guitar, train regularly, and enjoy running
 
-### 📚 What I'm Up To
-I actively document my projects and regularly push my code to GitHub. My focus is on **next-gen web technologies**, and I’m always exploring new frameworks and improving my current stack. My journey also involves continuous learning in **CMS systems** like **Payload**, to extend my expertise.
+## Tech Stack
 
-### 👥 Teamwork & Experience
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="36" height="36" />
+</p>
 
-I've had the opportunity to work at **[Code3Profit](https://www.code3profit.com/)** in a team of 20+ developers, including smaller groups of up to 5 people. I collaborated closely with designers, PMs, and backend/frontend developers, which helped me refine both my technical and communication skills. Full-stack development is my passion, and I enjoy building features end-to-end, from database design to frontend user experiences.
+<p align="left">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
 
-### 🎸 Fun Facts
-- I'm not just a developer; I’m also a **guitarist**! Whether it’s code or chords, I love creating something meaningful.
-- Fitness is a big part of my life. I'm dedicated to improving both mentally and physically, and you can often find me at the gym or reading a good book.
-- **Running enthusiast**: I’ve completed a half marathon and enjoy challenging myself through running.
+## Featured Projects
 
-### 💡 Let's Connect!
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/luka-stojadinovic-08ab971b9/)
+- **[Weather ETL Pipeline](https://github.com/Lukiano99/ETLProcessorProject)**  
+  End-to-end ETL pipeline built with Python, pandas, Apache Airflow, and PostgreSQL for ingesting, processing, and analyzing weather data from Open-Meteo.
 
-Feel free to explore my projects and reach out if you want to collaborate or chat about web development, fitness, or music!
+- **[Strob App](https://www.strob.app)**  
+  Full-stack SaaS platform for hospitality businesses with QR-based digital menus, admin dashboards, multi-tenant architecture, and role-based access.
+
+- **[ApartLock](https://apart-lock.vercel.app)**  
+  Apartment rental management app with booking flows, online payments, and smart lock integration via Tuya IoT.
+
+- **[KeyFlow](https://key-flow-one.vercel.app)**  
+  Full-stack typing test app with real-time WPM tracking, leaderboard, theme system, auth, and shareable results.
+
+- **[ThermoViz](https://github.com/Lukiano99/ThermoViz)**  
+  Data visualization project for monitoring energy consumption in district heating systems, created as part of my thesis.
+
+
+## What I'm Focused On
+
+Right now, I'm especially interested in:
+- building clean and scalable web applications,
+- improving performance in production systems,
+- working with data pipelines and analytics,
+- and continuing to grow across full-stack and data engineering domains.
+
+## Connect With Me
+
+- LinkedIn: [luka-stojadinovic-08ab971b9](https://www.linkedin.com/in/luka-stojadinovic-08ab971b9/)
+- GitHub: [Lukiano99](https://github.com/Lukiano99)
+
+Thanks for stopping by!
